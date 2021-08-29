@@ -4,9 +4,15 @@
     margin: 0;
 }
 
+
+/*The structure of the .css file now follows a logical sequence: <header>, <main>, <aside>, and <footer>*/
+
 body {
     background-color: #d9dcd6;
 }
+
+
+/*The header consolidates all of the elements and selectors needed to operate properly*/
 
 header {
     padding: 20px;
@@ -23,6 +29,9 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+
+
+/*Exchanged the <div> element for a <nav> element to ensure proper use of semantic elements*/
 
 header nav {
     padding-top: 15px;
@@ -49,6 +58,9 @@ a {
 p {
     font-size: 16px;
 }
+
+
+/*The main section consolidates all of the proper elements, and it is properly positioned to comply with the mock website*/
 
 .main_img {
     height: 800px;
@@ -93,6 +105,9 @@ section h2 {
     font-size: 36px;
 }
 
+
+/*An aside element replaced the division element to provide better context. Proper sequencing was established by including <h3> after <h2>*/
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -121,6 +136,9 @@ aside p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+
+/*An <h4> was included in the footer element to ensure proper sequencing*/
 
 footer {
     padding: 30px;
