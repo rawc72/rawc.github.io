@@ -1,5 +1,5 @@
 # Purpose of the Exercise:
-The purpose of the exercise was to improve the internal structure of a source code (refract) from an original .html and .css files provided to us, while maiantaining the essence of the client's website intact.
+The purpose of the exercise was to improve the internal structure of a source code (refract) from an original .html and .css files provided to us, while maintaining the essence of the client's website intact.
 
 # Complying with the Acceptance Criteria:
 The criteria for acceptance, and therefore, the actions taking while refracting, are summarized below:
@@ -8,7 +8,7 @@ The criteria for acceptance, and therefore, the actions taking while refracting,
 3. I added accessibility attributes to the code,
 4. I ensured all elements had a sequential order (i.e. <h1>, <h2>, <h3>, etc.),
 5. I added a concise and descriptive title to the website.
-Ultimately, the source code was cleaned up using semantic elements only, structured sequentially, added the nessesary attributes to make it accessible, and made the code more efficient in general. 
+Ultimately, the source code was cleaned up using semantic elements only, structured sequentially, added the necessary attributes to make it accessible, and made the code more efficient in general. 
 
 
 # Detailed Changes To The Code:
@@ -24,12 +24,7 @@ Ultimately, the source code was cleaned up using semantic elements only, structu
     C. Navigation:
         An id selector, which was missing in the source code, was added to "search engine optimization" located in the <nav> section. This link will improve the functionality of the website.
     D. Sequencing and logical structure:
-        The code was given logical structure and sequencing. The logical structure is determined by a <haed> and a <body>. Within the <body>, the <header> is followed by and <article>, followed by independent <sections> and finally a <foooter>. A <nav> element is included at the <header>. Proper sequencing can be identified when looking at the code and determining the <h1> is followed by <h2>, then <h3> and finally <h4>.
+        The code was given logical structure and sequencing. The logical structure is determined by a <head> and a <body>. Within the <body>, the <header> is followed by and <article>, followed by independent <sections> and finally a <footer>. A <nav> element is included at the <header>. Proper sequencing can be identified when looking at the code and determining the <h1> is followed by <h2>, then <h3> and finally <h4>.
     
 3. Footer:
     A.  No major changes were made in the footer with the exception of changing <h2> for <h4> to ensure proper sequencing.
-
-
-
-
-
